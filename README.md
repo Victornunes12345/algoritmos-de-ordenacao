@@ -1,6 +1,6 @@
 # Análise de Algoritmos de Ordenação
 
-Este repositório contém o código-fonte utilizado no artigo técnico que analisa o desempenho de algoritmos de ordenação clássicos.
+Este repositório contém o código-fonte utilizado no artigo técnico que analisa o desempenho de algoritmos de ordenação clássico.
 
 ## 📁 Arquivos
 
